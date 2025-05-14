@@ -1,0 +1,3 @@
+/Users/mauriciopajes/Documents/Patrones De Diseño C++/Builder/cmake-build-debug/CMakeFiles/Builder.dir
+/Users/mauriciopajes/Documents/Patrones De Diseño C++/Builder/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mauriciopajes/Documents/Patrones De Diseño C++/Builder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
